@@ -46,14 +46,14 @@ print(first_name+" "+middle_name)
 
 - Zeit das Arbeitsverzeichnis auf
 
----
+## `string - str`
 
-# Beispiele
+- Strings sind also Zeichenketten, das heißt aneinandergereihte Buchstaben, Wörter, Sätze, Texte oder Zahlen
 
+## `float - float`
 
-print(first_name+" "+middle_name)
+- Gibt eine Werte nach einem Komma an
 
-print("Zahl 1 * Zahl 2=", zahl1 * zahl2)
-print("Zahl 1 / Zahl 2=", zahl1 / zahl2)
-print("Zahl 1 + Zahl 2=", zahl1 + zahl2)
-print("Zahl 1 - Zahl 2=", zahl1 - zahl2)
+## `integer - int`
+
+- Zahl ist ganz ohne Nachkommastellen
